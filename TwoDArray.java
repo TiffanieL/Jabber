@@ -16,7 +16,7 @@ public class TwoDArray {
     	int rows=0;
     	int columns=0;
     	int number50 = 0;
-
+	// what are you doing....
       if (args.length != 2) {
 			System.out.println("Please Enter Only Two Arguments");
 			System.exit(1);
